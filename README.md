@@ -13,7 +13,6 @@ The learning path progresses through four stages:
 1. **PyTorch Basics & Advanced** (`pytorch/`)
    - Tensors, autograd, neural networks
    - Custom layers, loss functions, training loops
-   - Example: `pytorch/examples/simple_nn.py`
 
 2. **PyTorch Geometric (PyG)** (`pyg/`)
    - Graph representations, GCNs, GATs
